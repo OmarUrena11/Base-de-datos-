@@ -41,3 +41,5 @@ C:\Users\NiCo\Desktop\Tareas\Base de Datos\Practica base de datos\obj\Debug\Prac
 C:\Users\NiCo\Desktop\Tareas\Base de Datos\Practica base de datos\obj\Debug\Practica.E98BA3E3.Up2Date
 C:\Users\NiCo\Desktop\Tareas\Base de Datos\Practica base de datos\obj\Debug\Practica base de datos.exe
 C:\Users\NiCo\Desktop\Tareas\Base de Datos\Practica base de datos\obj\Debug\Practica base de datos.pdb
+C:\Users\NiCo\Desktop\Tareas\Base de Datos\Practica base de datos\obj\Debug\Practica_base_de_datos.Interfaz.resources
+C:\Users\NiCo\Desktop\Tareas\Base de Datos\Practica base de datos\obj\Debug\Practica_base_de_datos.Personas.resources

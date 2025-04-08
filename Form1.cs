@@ -27,7 +27,8 @@ namespace Practica_base_de_datos
             string ciudad = tbCiudad.Text;
 
             MySqlConnection conn = new MySqlConnection("server=127.0.0.1;uid=root;pwd=1102;database=pruebas");
-            MySqlCommand comm = new MySqlCommand("insert into personas(nombre,apellidos,ciudad)" + $"values ('{nombre}','{apellidos}','{ciudad}');", conn);
+            MySqlCommand comm = new MySqlCommand("insert into personas(nombre,apellidos,ciudad)" 
+                + $"values ('{nombre}','{apellidos}','{ciudad}');", conn);
             comm.CommandType = CommandType.Text;
             try
             {
